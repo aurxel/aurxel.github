@@ -1,14 +1,55 @@
-AURXEL is rewriting the rules of Indian wealth management. 
+# 👋 Welcome to AURXEL
 
-You're building a career, raising a family, chasing dreams. You don't have time to stare at charts all day and analyze thousands of securities in real time? AURXEL does.
+**Your Money. On Autopilot.**
 
-We are building an AI that never sleeps — so you can. It monitors markets 24/7, builds personalized portfolios across stocks, ETFs, and MFs, protects you from panic-selling, and optimizes your taxes automatically. You just live your life.
+AURXEL is building India's first automated portfolio management system — combining deep emotional intelligence with institutional-grade AI to build, monitor, and optimize truly personalized wealth.
 
-LifeCycleSync™ · Behavioral Guardrails™ · AutoHarvest India™
+We're on a mission to democratize wealth management for the mass-affluent who are trapped between expensive private wealth and advice-less apps.
 
-Welcome to AURXEL. Finally, wealth management that works as hard as you do.
+---
 
-👉 Join the waitlist at https://aurxel.com/
+## 🚀 What We're Building
 
-Website
-[https://aurxel.com/](https://aurxel.com/#waitlist)
+| Feature | Description |
+|---------|-------------|
+| 🧠 **Hyper-Personalization** | A portfolio built around your goals, fears, and dreams — monitored and rebalanced 24/7, forever. |
+| 📊 **LifeCycleSync** | EPF + NPS + PPF + MFs + stocks — one unified view of your financial future. |
+| 🛡️ **Behavioral Guardrails** | Real-time panic detection. Calm interventions. You're never alone when markets crash. |
+| 💰 **AutoHarvest India** | Continuous tax-loss harvesting optimized for the Indian regulations. |
+| 🤖 **Automated Investing** | Set goals once. We handle the rest. 24/7. |
+
+---
+
+## 🌐 Our Ecosystem
+
+| Platform | Handle/Link |
+|----------|-------------|
+| **Website** | [aurxel.com](https://aurxel.com) |
+| **LinkedIn** | [@aurxel](https://www.linkedin.com/company/aurxel) |
+| **Instagram** | [@aurxel_official](https://instagram.com/aurxel_official) |
+| **Twitter/X** | [@aurxel](https://x.com/aurxel_official) |
+| **Email** | hello@aurxel.com |
+
+---
+
+## 🤝 Join the Journey
+
+We're pre-launch & pre-funding. If you believe wealth management should be smarter, more personal, and accessible to all — join us.
+
+👉 [Join the waitlist](https://aurxel.com#waitlist)
+
+---
+
+
+## 📬 Get in Touch
+
+- **Founder & CEO:** Panvi Patel — panvi.patel@aurxel.com
+- **AI/ML Engineer:** Nathan Christopher Menon
+- **Software Engineer:** Philip Boadu Asare
+- **Quant Developer:** Kanav Chatley
+
+**Questions? Ideas? Collaborations?** Reach out at **support@aurxel.com**
+
+---
+
+**AURXEL — Your Money. On Autopilot.** 🚀
